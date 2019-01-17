@@ -1,0 +1,183 @@
+﻿PARTIA LUDZI NIEZALEŻNYCH 21 Wieku - PLN 21
+
+
+        
+PLN 21 to projekt, którego głównymi trzema celami są:
+- umożliwienie niezależnym osobom, będącym ekspertami z różnych dziedzin, kandydowanie do sejmu i senatu. 
+- stworzenie nowych standardów pracy posła/senatora, 8 godzinny dzień pracy biurowej.
+- stworzenie systemu zapewniającego uczciwość oraz brak korupcji. 
+
+
+
+
+Główny cel i założenie partii:
+
+
+
+
+
+
+
+
+
+
+1. Neutralność światopoglądowa
+W kwestiach światopoglądowych, trudnych do jednoznacznej oceny przez ekspertów (tj. związki partnerskie, migranci, posiadanie broni, adopcja dzieci przez pary homoseksualne, dostęp do aborcji, legalizacja marihuany, rozdział państwa od kościoła), PLN 21 będzie podejmować decyzje na podstawie ogólnopolskiego referendum. Referendum będzie przeprowadzanie jako dodatek do wyborów (ogólnokrajowych, samorządowych lub unijnych) w celu oszczędności finansowych.
+
+
+
+
+2. Open Source.
+
+
+Nad projektem pln21 może pracować każdy.
+
+
+Zadania będące do wykonania widoczne są na naszej “Task Lista” (tutaj link do czegoś jak jira.)
+Uważasz, że możesz rozwiązać całkowicie lub częściowo jakieś zadanie. Zarejestruj się.
+
+
+Uważasz że jest jakieś zadanie do wykonania dla przyszłych posłów, wejdź na naszego facebooka, znajdź odpowiedni wątek i dodaj komentarz.
+
+
+3. Społeczny charakter partii.
+
+
+PLN21 to projekt społeczny, nie może oczekiwać żadnych korzyści za wkład w jego rozwój. 
+Ani materialnych teraz, ani żadnych stanowisk w przyszłości.
+Partia nie ma żadnego budżetu, nie zbieramy i nie będziemy zbierać żadnych datków.
+
+
+
+
+4. Wysoka wartość konsultacji społecznych
+
+
+Ludzie w PLN 21 zdają sobie sprawę, że nie zawsze wszystko wiedzą i nie są ekspertami z każdej dziedziny. W związku z tym do pracy przy pisaniu ustaw będą zapraszane organizacje pozarządowe działające w zakresie omawianej tematyki ustaw, a także pracownicy uczelni wyższych.
+
+
+5. Ustawy ponad podziałami, zero obrażania innych.
+
+
+
+
+Trudno pracować z kimś nad jednym projektem jeśli wcześniej zostało się  wielokrotnie przez tą osobę obrażony. Dlatego, aby móc współpracować z innymi partiami wdrażamy dwie zasady:
+ -nikogo nie obrażamy.
+ -skupiamy się na pracy nie na błędach innych.
+
+
+
+
+W PLN 21 chcemy również wykorzystywać doświadczenia i pomysły innych partii politycznych. W chwili obecnej najczęstszym schematem działań kolejnych partii przejmujących władzę jest rezygnacja ze wszystkich projektów zapoczątkowanych przez poprzedników i wymyślenie własnych, często niedopracowanych, ale, co najważniejsze, odmiennych od pomysłów przeciwników politycznych. Takie podejście do polityki generuje ogromne koszty związane z ciągłym przeprowadzaniem niedopracowanych reform i uniemożliwia realizację długoterminowych projektów. 
+
+
+6.  Korzystanie z doświadczenia innych państw
+
+
+Wiele państw, szczególnie europejskich, boryka się z tymi samymi problemami co Polska. Wymyślanie ciągle nowych rozwiązań w podobnych sytuacjach oraz wieloletnie testowanie ich skuteczności, generuje ogromne koszty i oddala nas od szybkiego rozwiązania i poprawy stanu obecnego. W PLN 21 chcemy korzystać z doświadczenia innych krajów, bazować na ich doświadczeniu, analizować sukcesy i porażki danego typu działań. Nie ma sensu wymyślać koła na nowo. 
+
+
+7. Zero populizmu
+
+
+Nie chcemy tworzyć ustaw mających na celu tylko zabieganie o kolejne głosy wyborców. Każda nasza ustawa będzie oparta na szczegółowej analizie danych, z uczciwym przedstawieniem zysków i kosztów. Ponieważ jesteśmy za jak największą przejrzystością działalności politycznej każda taka analiza proponowanej przez nas ustawy będzie dostępna na stronie internetowej PLN 21. 
+
+
+
+
+8. Nastawienie na przyszłość
+
+
+W PLN 21 chcemy skupić się na rozwiązywaniu obecnych problemów naszego kraju. Jako cel nie stawiamy sobie rozliczania innych i wytykanie im błędów jakie popełnili w ostatnich dziesięcioleciach.Takimi sprawami jak korupcja, oszustwa, afery polityczne łamiące polskie prawo powinny zająć się sądy nie politycy. Politycy powinni cały swój czas pracy poświęcić na teraźniejszą poprawę sytuacji polaków.
+
+
+9.  Stworzenie systemu w którym korupcja i nepotyzm będzie niewykonalna. Zamiast skupieniu się na błędach innych, energię i wysiłek skupiamy na stworzeniu systemu gdzie korupcja, nepotyzm, wykorzystywanie środków państwowych  nie będzie miała miejsca.
+Zobacz proszę listę proponowanych rozwiązań (link)
+
+
+
+
+
+
+
+
+10. Nowoczesne podejście do pracy posłów
+
+
+W pracy naszych posłów chcemy korzystać z nowoczesnych technik wykorzystywanych między innymi w globalnych korporacjach. Posłowie będą normalnie pracować po 8 godzin dziennie, w biurze (jednym dla wszystkich posłów) lub sejmie (w przypadku obrad), z rozliczeniem 40 godzinnego tygodnia pracy, będąc stale w ciągłej komunikacji.
+Wykorzystanie nowoczesnych systemów pracy:
+ typu Agile,
+ użycie programów zarządzającymi zadaniami jak Jira lub  Mavenlink. 
+ pełna dokumentacja pracy,
+ kontrola czasu pracy.
+
+
+
+
+
+
+
+
+11. Przejrzystość kandydatów na posłów i posłów
+
+
+Na stronie internetowej PLN 21 dostępne będą szczegółowe CV każdego kandydata wraz z opisem jego pomysłów na naprawę sytuacji w Polsce z branży w której jest ekspertem (list motywacyjny). Dodatkowo od kandydatów oczekiwana  jest znajomość swojej branży za granicą. Dlatego każdy z nich powinien przedstawić kraj który implementuje dobre rozwiązania problemów z jego dziedziny. 
+Informacje te mają być napisane w sposób jak najbardziej zrozumiały i dostępny dla wszystkich, bez znaczenia na poziom zaawansowania czytelnika w danym temacie, a sama partia będzie prowadzić działania zachęcające wyborców do świadomego wybierania kandydatów. 
+
+
+Pozycja danej osoby na liście kandydatów będzie alfabetyczna, czym chcemy zwrócić uwagę na to, żeby nie zawsze głosować na “jedynkę” tylko na wybraną, konkretną osobę. 
+
+
+Od kandydatów poza CV i Listem motywacyjnym wymagane jest uzupełnienie ankiety.
+Ankieta ta będzie jawna. Dodatkowo osoby odwiedzające nasz strone mogą ja również uzupełnić w celu wyboru kandydata z najbardziej zbliżonymi poglądami.
+
+
+
+
+
+
+
+
+
+
+
+
+12. Nowatorskie podejście do okręgów wyborczych
+
+
+Obecnie z jednego, tego samego  okręgu wyborczego kandyduje lekarz, rolnik, prawniki, historyk, celebryta i nauczyciel.
+Efekty tego są takie, że mamy za dużo celebrytów i historyków, a w niektórych dziedzin nikogo. 
+
+
+Dlatego w PLN21 każdy z 41 okręgów dzielimy według poniższych specjalizacji:
+
+
+
+
+2*Ministerstwo Cyfryzacji (informatyzacja)
+Ministerstwo Edukacji Narodowej (oświata i wychowanie)
+Ministerstwo Energii (energia; gospodarka złożami kopalin)
+Ministerstwo Finansów (budżet; finanse publiczne; instytucje finansowe)
+Zespół cięcia głupich wydatków w budżecie
+2*Zespół do naprawy ZUSU
+2*zespół uszczelniania upraszczania i obniżania podatków
+Ministerstwo Gospodarki Morskiej i Żeglugi Śródlądowej (gospodarka morska; gospodarka wodna; rybołówstwo; żegluga śródlądowa)
+Ministerstwo Infrastruktury (łączność; transport)
+zespół do unowocześnia kodeksu drogowego
+Ministerstwo Inwestycji i Rozwoju (budownictwo, planowanie i zagospodarowanie przestrzenne oraz mieszkalnictwo; rozwój regionalny)
+zespół od ustawy reprywatyzacyjnej
+Ministerstwo Kultury i Dziedzictwa Narodowego (kultura i ochrona dziedzictwa narodowego)
+Ministerstwo Nauki i Szkolnictwa Wyższego (szkolnictwo wyższe i nauka).
+Ministerstwo Obrony Narodowej (obrona narodowa)
+Ministerstwo Przedsiębiorczości i Technologii (gospodarka)
+zespół do Inwestycji w nowe technologie
+Ministerstwo Rodziny, Pracy i Polityki Społecznej (praca; rodzina; zabezpieczenie społeczne)
+2*Ministerstwo Rolnictwa i Rozwoju Wsi (rolnictwo; rozwój wsi; rynki rolne)
+Ministerstwo Sportu i Turystyki (kultura fizyczna; turystyka)
+Ministerstwo Spraw Wewnętrznych i Administracji (administracja publiczna; sprawy wewnętrzne; wyznania religijne oraz mniejszości narodowe i etniczne)
+Ministerstwo Spraw Zagranicznych (członkostwo Rzeczypospolitej Polskiej w Unii Europejskiej; sprawy zagraniczne)
+Ministerstwo Sprawiedliwości (sprawiedliwość)
+zespół do naprawy sądownictwa
+Ministerstwo Środowiska (środowisko)
+zespół od SMOGU
+3*Ministerstwo Zdrowia (zdrowie)
