@@ -1,0 +1,21 @@
+﻿przydzielenie specjalizacji do każdego z 41 okręgów wyborczych z
+sformułowanie wymagań dla osób chcących kandydować  z danego okręgu 
+Przydzielenie rekrutera dla każdego okręgu
+wymyślenie ankiety dla kandydatów.
+
+
+Stworzenie wątku z pomysłami na uczciwość partii.
+
+
+
+
+połączenie GitHuba z darmowym odpowiednikiem jiry.
+
+
+
+
+
+
+osoby do skontatkotwania:
+http://www.rezydenci.org.pl/
+https://smoglab.pl/tag/jakosc-powietrza/
