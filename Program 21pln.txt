@@ -1,12 +1,14 @@
-﻿PARTIA LUDZI NIEZALEŻNYCH 21 Wieku - PLN 21
+﻿PLN21 poject
+
+PARTIA LUDZI NIEZALEŻNYCH 21 Wieku - PLN 21
 
 
         
-PLN 21 to projekt, którego głównymi celami są:
-A- umożliwienie niezależnym osobom, będącym ekspertami z różnych dziedzin, kandydowanie do sejmu i senatu.
-B- umożliwienie wyborcom dokonywana świadomego wyboru.
-C- wprowadzenie nowych standardów pracy posłów, 8 godzinny dzień pracy biurowej.
-D- wprowadzenie systemu zapewniającego uczciwość oraz brak korupcji.
+PLN 21 to open source  projekt, którego głównymi celm jest stworzenie nowoczesnej partii polityczne która
+A- umożliwi niezależnym osobom, będącym ekspertami z różnych dziedzin, kandydowanie do sejmu i senatu.
+B- umożliwi wyborcom dokonywania świadomego wyboru.
+C- wprowadzi nowe standardów pracy posłów, 8 godzinny dzień pracy biurowej.
+D- wprowadzi systemu zapewniającego uczciwość oraz brak korupcji.
 
 
 
