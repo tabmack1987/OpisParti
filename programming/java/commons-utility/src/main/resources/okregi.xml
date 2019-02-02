@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<okregi>
+    <okreg nazwa="Legnica">
+        <id>1</id>
+        <iloscMandatow>12</iloscMandatow>
+    </okreg>
+    <okreg nazwa="Wałbrzych">
+        <id>2</id>
+        <iloscMandatow>8</iloscMandatow>
+    </okreg>
+    <okreg nazwa="Wrocław">
+        <id>3</id>
+        <iloscMandatow>14</iloscMandatow>
+    </okreg>
+    <okreg nazwa="Bydgoszcz">
+        <id>4</id>
+        <iloscMandatow>12</iloscMandatow>
+    </okreg>
+    <okreg nazwa="Toruń">
+        <id>5</id>
+        <iloscMandatow>13</iloscMandatow>
+    </okreg>
+    <okreg nazwa="Lublin">
+        <id>6</id>
+        <iloscMandatow>15</iloscMandatow>
+    </okreg>
+    <okreg nazwa="Chełm">
+        <id>7</id>
+        <iloscMandatow>12</iloscMandatow>
+    </okreg>
+    <okreg nazwa="ZielonaGóra">
+        <id>8</id>
+        <iloscMandatow>12</iloscMandatow>
+    </okreg>
+    <okreg nazwa="Łódź">
+        <id>9</id>
+        <iloscMandatow>10</iloscMandatow>
+    </okreg>
+    <okreg nazwa="PiotrkówTrybunalski">
+        <id>10</id>
+        <iloscMandatow>9</iloscMandatow>
+    </okreg>
+    <okreg nazwa="Sieradz">
+        <id>11</id>
+        <iloscMandatow>12</iloscMandatow>
+    </okreg>
+    <okreg nazwa="Chrzanów">
+        <id>12</id>
+        <iloscMandatow>8</iloscMandatow>
+    </okreg>
+    <okreg nazwa="Kraków">
+        <id>13</id>
+        <iloscMandatow>14</iloscMandatow>
+    </okreg>
+    <okreg nazwa="NowySącz">
+        <id>14</id>
+        <iloscMandatow>10</iloscMandatow>
+    </okreg>
+    <okreg nazwa="Tarnów">
+        <id>15</id>
+        <iloscMandatow>9</iloscMandatow>
+    </okreg>
+    <okreg nazwa="Płock">
+        <id>16</id>
+        <iloscMandatow>10</iloscMandatow>
+    </okreg>
+    <okreg nazwa="Radom">
+        <id>17</id>
+        <iloscMandatow>9</iloscMandatow>
+    </okreg>
+    <okreg nazwa="Siedlce">
+        <id>18</id>
+        <iloscMandatow>12</iloscMandatow>
+    </okreg>
+    <okreg nazwa="Warszawa">
+        <id>19</id>
+        <iloscMandatow>20</iloscMandatow>
+    </okreg>
+    <okreg nazwa="Warszawa">
+        <id>20</id>
+        <iloscMandatow>12</iloscMandatow>
+    </okreg>
+    <okreg nazwa="Opole">
+        <id>21</id>
+        <iloscMandatow>12</iloscMandatow>
+    </okreg>
+    <okreg nazwa="Krosno">
+        <id>22</id>
+        <iloscMandatow>11</iloscMandatow>
+    </okreg>
+    <okreg nazwa="Rzeszów">
+        <id>23</id>
+        <iloscMandatow>15</iloscMandatow>
+    </okreg>
+    <okreg nazwa="Białystok">
+        <id>24</id>
+        <iloscMandatow>14</iloscMandatow>
+    </okreg>
+    <okreg nazwa="Gdańsk">
+        <id>25</id>
+        <iloscMandatow>12</iloscMandatow>
+    </okreg>
+    <okreg nazwa="Gdynia">
+        <id>26</id>
+        <iloscMandatow>14</iloscMandatow>
+    </okreg>
+    <okreg nazwa="Bielsko-Biała">
+        <id>27</id>
+        <iloscMandatow>9</iloscMandatow>
+    </okreg>
+    <okreg nazwa="Częstochowa">
+        <id>28</id>
+        <iloscMandatow>7</iloscMandatow>
+    </okreg>
+    <okreg nazwa="Gliwice">
+        <id>29</id>
+        <iloscMandatow>9</iloscMandatow>
+    </okreg>
+    <okreg nazwa="Rybnik">
+        <id>30</id>
+        <iloscMandatow>9</iloscMandatow>
+    </okreg>
+    <okreg nazwa="Katowice">
+        <id>31</id>
+        <iloscMandatow>12</iloscMandatow>
+    </okreg>
+    <okreg nazwa="Sosnowiec">
+        <id>32</id>
+        <iloscMandatow>9</iloscMandatow>
+    </okreg>
+    <okreg nazwa="Kielce">
+        <id>33</id>
+        <iloscMandatow>16</iloscMandatow>
+    </okreg>
+    <okreg nazwa="Elbląg">
+        <id>34</id>
+        <iloscMandatow>8</iloscMandatow>
+    </okreg>
+    <okreg nazwa="Olsztyn">
+        <id>35</id>
+        <iloscMandatow>10</iloscMandatow>
+    </okreg>
+    <okreg nazwa="Kalisz">
+        <id>36</id>
+        <iloscMandatow>12</iloscMandatow>
+    </okreg>
+    <okreg nazwa="Konin">
+        <id>37</id>
+        <iloscMandatow>9</iloscMandatow>
+    </okreg>
+    <okreg nazwa="Piła">
+        <id>38</id>
+        <iloscMandatow>9</iloscMandatow>
+    </okreg>
+    <okreg nazwa="Poznań">
+        <id>39</id>
+        <iloscMandatow>10</iloscMandatow>
+    </okreg>
+    <okreg nazwa="Koszalin">
+        <id>40</id>
+        <iloscMandatow>8</iloscMandatow>
+    </okreg>
+    <okreg nazwa="Szczecin">
+        <id>41</id>
+        <iloscMandatow>12</iloscMandatow>
+    </okreg>
+
+</okregi>
