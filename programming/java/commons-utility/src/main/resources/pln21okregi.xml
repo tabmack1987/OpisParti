@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<okregi>
+    <dziedzina nazwa="Energii">
+        <ilosc>1</ilosc>
+    </dziedzina>
+    <dziedzina nazwa="Finansów">
+        <ilosc>4</ilosc>
+        <specjalizacja>cięcia nieuzasadnionych wydatków w budżecie</specjalizacja>
+        <specjalizacja>ZUS</specjalizacja>
+        <specjalizacja>uszczelniania, upraszczania i obniżania podatków</specjalizacja>
+    </dziedzina>
+    <dziedzina nazwa="Infrastruktury">
+        <ilosc>1</ilosc>
+    </dziedzina>
+    <dziedzina nazwa="Inwestycji i Rozwoju">
+        <ilosc>1</ilosc>
+    </dziedzina>
+    <dziedzina nazwa="Kultury i Dziedzictwa Narodowego">
+        <ilosc>1</ilosc>
+    </dziedzina>
+    <dziedzina nazwa="Edukacji Narodowej">
+        <ilosc>1</ilosc>
+    </dziedzina>
+    <dziedzina nazwa="Nauki i Szkolnictwa Wyższego">
+        <ilosc>1</ilosc>
+    </dziedzina>
+    <dziedzina nazwa="Obrony Narodowej ">
+        <ilosc>1</ilosc>
+    </dziedzina>
+    <dziedzina nazwa="Przedsiębiorczości i Technologii ">
+        <ilosc>1</ilosc>
+    </dziedzina>
+    <dziedzina nazwa="Rodziny, Pracy i Polityki Społecznej">
+        <ilosc>1</ilosc>
+    </dziedzina>
+    <dziedzina nazwa="Rolnictwa i Rozwoju Wsi">
+        <ilosc>1</ilosc>
+    </dziedzina>
+    <dziedzina nazwa="Sportu i Turystyki ">
+        <ilosc>1</ilosc>
+    </dziedzina>
+    <dziedzina nazwa="Spraw Wewnętrznych i Administracji ">
+        <ilosc>1</ilosc>
+    </dziedzina>
+    <dziedzina nazwa="Spraw Zagranicznych ">
+        <ilosc>1</ilosc>
+    </dziedzina>
+    <dziedzina nazwa="Sprawiedliwości">
+        <ilosc>1</ilosc>
+    </dziedzina>
+    <dziedzina nazwa="Środowiska">
+        <ilosc>1</ilosc>
+    </dziedzina>
+    <dziedzina nazwa="Gospodarki Morskiej i Żeglugi Śródlądowej">
+        <ilosc>1</ilosc>
+    </dziedzina>
+    <dziedzina nazwa="Smog">
+        <ilosc>1</ilosc>
+    </dziedzina>
+    <dziedzina nazwa="Zdrowia ">
+        <ilosc>1</ilosc>
+    </dziedzina>
+    <dziedzina nazwa="Media Publiczne">
+        <ilosc>1</ilosc>
+    </dziedzina>
+    <dziedzina nazwa="Kodeks drogowy">
+        <ilosc>1</ilosc>
+    </dziedzina>
+</okregi>
